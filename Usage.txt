@@ -18,3 +18,8 @@ Usage of the program:
 3. Save the text file, and run `Detector.exe` in the command prompt again.
 
 The results will say if the song should be removed for inappropriate words, and it will include the words.
+
+
+--
+
+NOTE: To get the list of the bad words, DM me on discord.
