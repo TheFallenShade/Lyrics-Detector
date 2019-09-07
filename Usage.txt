@@ -1,0 +1,20 @@
+How to setup the detector program:
+
+1. Make sure it's in a folder of it's own, and you can access it whenever you'd like.
+2. Find this icon and click on it ( http://prntscr.com/p328nu )
+3. Type cmd and press enter
+( At this point a new window should open )
+4. In the command prompt (the window that opened) type `Detector.exe` and press enter.
+( You might need to allow windows access to run the file. )
+
+If you did everything correctly, 2 new text files should appear named bad(.txt) and lyrics(.txt)
+
+--
+
+Usage of the program:
+
+1. Open the lyrics text file
+2. Type / Paste the lyrics you want to filter for bad words.
+3. Save the text file, and run `Detector.exe` in the command prompt again.
+
+The results will say if the song should be removed for inappropriate words, and it will include the words.
