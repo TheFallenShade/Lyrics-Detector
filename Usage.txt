@@ -1,7 +1,7 @@
 How to setup the detector program:
 
 1. Make sure it's in a folder of it's own, and you can access it whenever you'd like.
-2. Find this icon and click on it ( http://prntscr.com/p328nu )
+2. In the specified folder find this icon and click on it ( http://prntscr.com/p328nu )
 3. Type cmd and press enter
 ( At this point a new window should open )
 4. In the command prompt (the window that opened) type `Detector.exe` and press enter.
