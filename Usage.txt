@@ -22,4 +22,6 @@ The results will say if the song should be removed for inappropriate words, and 
 
 --
 
-NOTE: To get the list of the bad words, DM me on discord.
+NOTE: The list of the bad words is customizable, just make sure they're in the form
+word,word,word,word,word
+word,word,word...
